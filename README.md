@@ -1,3 +1,3 @@
-# Momentum
+# Javascript For Beginners
 
-with Javascript...
+Learning Javascript by Making a Productivity App
