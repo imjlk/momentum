@@ -1,0 +1,27 @@
+{
+  "name": "momentum",
+  "version": "0.0.1",
+  "description": "Learning Javascript by Making a Productivity App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imjlk/momentum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imjlk/momentum/issues"
+  },
+  "homepage": "https://github.com/imjlk/momentum#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "postcss-cli": "^9.1.0",
+    "postcss-nested": "^5.0.6"
+  },
+  "browserslist": [
+    "> 0.5%"
+  ]
+}

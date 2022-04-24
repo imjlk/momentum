@@ -1,0 +1,15 @@
+#todo-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+#todo-list > li {
+  margin: 0 1em 0 0;
+}
+.todo-wrapper {
+  display: flex;
+  margin: 2em;
+  flex-direction: column;
+}
+#todo-form input{
+  min-width: 50%;
+}

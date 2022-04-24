@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  min-height: 100vh;
+  color: #fff;
+  /* text-align: center; */
+}
+
+label {
+  user-select: none;
+}
+
+button {
+  margin: 1em;
+}
+
+.hidden {
+  display: none;
+}
